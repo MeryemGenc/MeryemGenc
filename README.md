@@ -1,4 +1,5 @@
-<iframe src="https://giphy.com/embed/3o7TKyH7Ur3kvjGa5y" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/a24-ex-machina-3o7TKyH7Ur3kvjGa5y">via GIPHY</a></p>
+![Uploading giphy.gif…]()
+
 
 Kaggle: https://www.kaggle.com/meryemgenc
 
