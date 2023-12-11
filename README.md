@@ -1,4 +1,4 @@
-![Uploading giphy.gif…]()
+![ex_machine](giphy.gif)
 
 
 Kaggle: https://www.kaggle.com/meryemgenc
